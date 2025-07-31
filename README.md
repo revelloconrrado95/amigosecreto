@@ -1,3 +1,7 @@
-<h1>Amigo secreto alura <h1>
+<h1>Proyecto amigo secreto alura <h1>
 
-// en proceso
+ en proceso
+
+Para ejecuar el sistema debes poner:
+
+""npm install react""
